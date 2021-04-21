@@ -1,4 +1,4 @@
-# Single_Lead_ECG_Machine-
+# Single_Lead_ECG_Machine
 
 This project started as the project component for my subject analog electronic communcation that I took in my Winter Sem 2019.
 
