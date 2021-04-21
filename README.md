@@ -50,6 +50,14 @@ Once we start recieving the data from the circuit it is important to store the s
 3. Eagle files for the PCB (Gerber files will be added shortly)
 4. Output waveforms captured by the circuit and the final pictures of the circuit.
 
+Manufactured Layout V1.0
+
+![image](Result_imgs/2-Lead_ECG.png)
+
+Output!!
+
+![image](Result_imgs/gp_5.png)
+
 
 #### -Himanshu Savargaonkar
 ##### P.S. Shoutout to Praneeth G (gp201) for being the test subject for all the live tests conducted in the debugging phase :)
